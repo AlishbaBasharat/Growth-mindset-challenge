@@ -1,4 +1,4 @@
-import streamlit from st
+import streamlit as st
 
 st.set_page_config(page_title= "Growth Mindset Project", page_icons= "★")
 
