@@ -9,7 +9,7 @@ st.write("Embrace challenges, learn from mistakes, and unlock your full potentia
 
 #quote section 
 st.header("✨ Today's Growth Mindset Quote")
-st.write(""Believe in yourself, stay consistent, and the world will open doors you never imagined." 🚀")
+st.write("Believe in yourself, stay consistent, and the world will open doors you never imagined.🚀")
 
 #user input section
 st.header("🔧 What's Your challenge Today?")
