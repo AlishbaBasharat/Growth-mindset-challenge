@@ -4,7 +4,7 @@ st.set_page_config(page_title= "Growth Mindset Project", page_icons= "★")
 
 st.title("Growth MindSet Ai Project With Streamlit")
 
-st.header(✈️Welcome to the growth journey!)
+st.header("✈️Welcome to the growth journey!")
 st.write("Embrace challenges, learn from mistakes, and unlock your full potential. This Ai-powered app helps you build a grwth mindset with reflection, challenges, and achievements!☆")
 
 #quote section 
